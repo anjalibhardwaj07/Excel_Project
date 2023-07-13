@@ -1,6 +1,6 @@
 # Excel_Project
-I have completed my project on Madhav Garments Sales Dashboard by using Microsoft Excel.
-Objective :-
+I have completed my project on Madhav Garments Sales Dashboard by using Microsoft Excel.                           
+Objective :-                                            
 Madhav Garments want to create an annual sales report for 2023. So that , Madhav can understand their customers are grow more sales in 2024.
 
 * Sample insights:-
